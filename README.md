@@ -50,3 +50,7 @@ Based on a text input, a background is generated for the dressed model using the
 ## Stage 3: Optional face swap
 
 Here we use IPAdapter and inpainting to swap the face of the model with the face provided in the input portraits. This step is optional and can be skipped if you don't have a virtual-influencer-type scenario.
+
+## Acknowledgements
+
+Based on the excellent paper ["Linking Garment With Person via Semantically Associated Landmarks for Virtual Try-On"](https://openaccess.thecvf.com/content/CVPR2023/papers/Yan_Linking_Garment_With_Person_via_Semantically_Associated_Landmarks_for_Virtual_CVPR_2023_paper.pdf) by Keyu Yan, Tingwei Gao, HUI ZHANG, Chengjun Xie.

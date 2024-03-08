@@ -14,6 +14,7 @@ Made with 💚 by the [CozyMantis](https://cozymantis.gumroad.com/) squad.
 - [ComfyUI IPAdapter plus](https://github.com/cubiq/ComfyUI_IPAdapter_plus) for face swapping
 - [Impact Pack](https://github.com/ltdrdata/ComfyUI-Impact-Pack) for face detailing
 - [Cozy Human Parser](https://github.com/cozymantis/human-parser-comfyui-node) for getting a mask of the head
+- If you need the background generation and face swap parts of the workflow, we recommend downloading [Realistic Vision v6.0](https://civitai.com/models/4201?modelVersionId=245598) and [its inpainting version](https://civitai.com/models/4201?modelVersionId=245627), and placing them in your `models/checkpoints` directory.
 
 ## Inputs you'll need
 

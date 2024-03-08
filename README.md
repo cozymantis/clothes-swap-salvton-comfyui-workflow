@@ -5,7 +5,7 @@ A ComfyUI Workflow for swapping clothes using [SAL-VTON](https://openaccess.thec
 ![ComfyUI workflow to swap clothes](./workflow.jpeg)
 
 ## Dependencies:
-- The Cozy SAL-VTON node
+- The [Cozy SAL-VTON node](https://cozymantis.gumroad.com/l/cozy-clothes-swap-comfyui-node-salvton) for swapping clothes
 - [Image Resize for ComfyUI](https://github.com/palant/image-resize-comfyui) for cropping/resizing
 - [WAS Node Suite](https://github.com/WASasquatch/was-node-suite-comfyui) for removing the background
 - [ComfyUI Essentials](https://github.com/cubiq/ComfyUI_essentials) for the mask preview and remove latent mask nodes

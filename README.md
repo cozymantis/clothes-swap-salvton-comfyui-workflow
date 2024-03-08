@@ -2,6 +2,8 @@
 
 A ComfyUI Workflow for swapping clothes using [SAL-VTON](https://openaccess.thecvf.com//content/CVPR2023/papers/Yan_Linking_Garment_With_Person_via_Semantically_Associated_Landmarks_for_Virtual_CVPR_2023_paper.pdf).
 
+Generates backgrounds and swaps faces using Stable Diffusion 1.5 checkpoints.
+
 Made with 💚 by the [CozyMantis](https://cozymantis.gumroad.com/) squad.
 
 ![ComfyUI workflow to swap clothes](./workflow.jpeg)
@@ -21,6 +23,7 @@ Made with 💚 by the [CozyMantis](https://cozymantis.gumroad.com/) squad.
 
 - A model image (the person you want to put clothes on)
 - A garment product image (the clothes you want to put on the model)
+- Garment and model images should be close to 3:4 aspect ratio, and at least 768x1024 px.
 - (Optional) One or two portraits for face-swapping
 
 > [!IMPORTANT]  

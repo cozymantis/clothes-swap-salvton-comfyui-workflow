@@ -4282,7 +4282,7 @@
         "Node name for S&R": "LoadImage"
       },
       "widgets_values": [
-        "ewf1.jpg",
+        "face1.jpg",
         "image"
       ]
     },
@@ -4321,7 +4321,7 @@
         "Node name for S&R": "LoadImage"
       },
       "widgets_values": [
-        "ewf2.jpg",
+        "face2.jpg",
         "image"
       ]
     },
@@ -4431,7 +4431,7 @@
         "Node name for S&R": "LoadImage"
       },
       "widgets_values": [
-        "00419_00.jpg",
+        "garment.jpg",
         "image"
       ]
     },
@@ -4470,7 +4470,7 @@
         "Node name for S&R": "LoadImage"
       },
       "widgets_values": [
-        "01025_00.jpg",
+        "model.jpg",
         "image"
       ]
     },
@@ -4540,8 +4540,8 @@
         "Node name for S&R": "Cozy SAL-VTON Try-on"
       },
       "widgets_values": [
-        "keypoints: [\n  [368, 328, 1], # tip of back 0\n  [280, 344, 2], # lefmost neck 1\n  [312, 376, 2], # next to leftmost neck 2\n  [360, 416, 2], # neck bottom 3\n  [360, 416, 2], # neck bottom 4\n  [432, 384, 2], # next to rightmost neck 5\n  [464, 320, 2], # rightmost neck 6\n  [160, 360, 2], # left shoulder 7\n  [184, 568, 2], # left armpit 8\n  [106, 469, 2], # upper left arm exterior 9\n  [184, 592, 2], # upper left arm interior 10\n  [80, 992, 0], # left elbow exterior 11\n  [56, 712, 0], # left elbow interior 12\n  [80, 1008, 0], # lower left arm exterior 13\n  [88, 1008, 0], # lower left arm interior 14\n  [80, 544, 2], # end of left sleeve exterior 15\n  [168, 616, 2], # end of left sleeve interior 16\n  [584, 360, 2], # right shoulder 17\n  [544, 552, 2], # right armpit 18\n  [632, 432, 2], # upper right arm exterior 19\n  [544, 600, 2], # upper right arm interior 20\n  [672, 520, 0], # right elbow exterior 21\n  [752, 320, 0], # right elbow interior 22\n  [760, 328, 0], # lower right arm exterior 23\n  [752, 320, 0], # lower right arm interior 24\n  [664, 528, 2], # end of right sleeve exterior 25\n  [536, 640, 2], # end of right sleeve interior 26\n  [152, 760, 2], # left waist 27\n  [512, 784, 2], # right waist 28\n  [152, 824, 1], # left garment bottom 29\n  [352, 896, 1], # middle garment bottom 30\n  [520, 824, 1], # right garment bottom 31\n]\n",
-        "keypoints: [\n  [384, 200, 1], # tip of back 0\n  [280, 184, 1], # lefmost neck 1\n  [312, 264, 1], # next to leftmost neck 2\n  [392, 288, 1], # neck bottom 3\n  [392, 288, 1], # neck bottom 4\n  [472, 256, 1], # next to rightmost neck 5\n  [480, 184, 1], # rightmost neck 6\n  [136, 288, 1], # left shoulder 7\n  [200, 504, 1], # left armpit 8\n  [96, 384, 1], # upper left arm exterior 9\n  [192, 520, 1], # upper left arm interior 10\n  [184, 528, 0], # left elbow exterior 11\n  [176, 544, 0], # left elbow interior 12\n  [216, 696, 0], # lower left arm exterior 13\n  [208, 696, 0], # lower left arm interior 14\n  [64, 464, 1], # end of left sleeve exterior 15\n  [184, 536, 1], # end of left sleeve interior 16\n  [608, 248, 1], # right shoulder 17\n  [560, 520, 1], # right armpit 18\n  [664, 376, 1], # upper right arm exterior 19\n  [576, 536, 1], # upper right arm interior 20\n  [176, 560, 0], # right elbow exterior 21\n  [592, 560, 0], # right elbow interior 22\n  [496, 200, 0], # lower right arm exterior 23\n  [584, 752, 0], # lower right arm interior 24\n  [696, 472, 1], # end of right sleeve exterior 25\n  [584, 544, 1], # end of right sleeve interior 26\n  [200, 664, 1], # left waist 27\n  [576, 664, 1], # right waist 28\n  [200, 832, 1], # left garment bottom 29\n  [400, 832, 1], # middle garment bottom 30\n  [576, 832, 1], # right garment bottom 31\n]\n",
+        "",
+        "",
         null
       ]
     }

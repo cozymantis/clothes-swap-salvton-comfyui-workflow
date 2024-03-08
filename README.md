@@ -2,6 +2,8 @@
 
 A ComfyUI Workflow for swapping clothes using [SAL-VTON](https://openaccess.thecvf.com//content/CVPR2023/papers/Yan_Linking_Garment_With_Person_via_Semantically_Associated_Landmarks_for_Virtual_CVPR_2023_paper.pdf).
 
+Made with 💚 by the [CozyMantis](https://cozymantis.gumroad.com/) squad.
+
 ![ComfyUI workflow to swap clothes](./workflow.jpeg)
 
 ## Dependencies:

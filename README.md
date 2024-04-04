@@ -56,6 +56,23 @@ Based on a text input, a background is generated for the dressed model using the
 
 Here we use IPAdapter and inpainting to swap the face of the model with the face provided in the input portraits. This step is optional and can be skipped if you don't have a virtual-influencer-type scenario.
 
+## More Good Stuff
+
+Made with 💚 by the [CozyMantis](https://cozymantis.gumroad.com) squad. Check out our ComfyUI nodes and workflows!
+
+| | |
+| --- | --- |
+| <img src="https://github.com/cozymantis/style-transfer-comfyui-workflow/assets/5381731/124828a8-1dd2-447b-8646-ec9049f35f42" width=200 /><br />[Cozy Portrait Animator - ComfyUI Nodes & Workflow To Animate A Face From A Single Image](https://cozymantis.gumroad.com/l/cozy-animated-portraits-with-stablediffusion-comfyui-aniportrait?layout=profile) | <a href="https://cozymantis.gumroad.com/l/cozy-clothes-swap-comfyui-node-salvton?layout=profile"><img width=200 src="https://public-files.gumroad.com/x75wxfap89vzrasn4v6rniemyaj5"><br /> Cozy Clothes Swap - Customizable ComfyUI Node For Fashion Try-on</a> |
+| <img src="https://public-files.gumroad.com/dtz98aq6vdup1yyo6dh1znk2sn7o" width=200 /><br />[Cozy Character Turnaround - Generate And Rotate Characters and Outfits with SD 1.5, SV3D, and IPAdapter - ComfyUI Workflow](https://cozymantis.gumroad.com/l/cozy-character-turnaround-animate-comfyui-workflow?layout=profile) | <a href="https://cozymantis.gumroad.com/l/character-face-consistency-reference-sheet-comfyui-workflow-sd15?layout=profile"><img width=200 src="https://public-files.gumroad.com/z5ngr41vztccp0isnwtarap5wy5n"><br /> Cozy Character Face Generator - ComfyUI SD 1.5 Workflow For Consistent Reference Sheets</a> |
+
 ## Acknowledgements
 
 Based on the excellent paper ["Linking Garment With Person via Semantically Associated Landmarks for Virtual Try-On"](https://openaccess.thecvf.com/content/CVPR2023/papers/Yan_Linking_Garment_With_Person_via_Semantically_Associated_Landmarks_for_Virtual_CVPR_2023_paper.pdf) by Keyu Yan, Tingwei Gao, HUI ZHANG, Chengjun Xie.
+
+## Licenses & Commercial Use
+
+Please check licenses and terms of use for each of the nodes and models required by this workflow.
+
+## Misuse, Malicious Use, and Out-of-Scope Use
+
+The workflow should not be used to intentionally create or disseminate images that create hostile or alienating environments for people. This includes generating images that people would foreseeably find disturbing, distressing, or offensive; or content that propagates historical or current stereotypes.
